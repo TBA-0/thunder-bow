@@ -1,0 +1,10 @@
+{
+  "textures": {
+    "layer0": "item/bow"
+  },
+  "parent": "item/generated",
+  "overrides": [
+    {
+      "predicate": {"custom_model_data": 1},"model": "item/custom/ThunderPower"}
+  ]
+}
