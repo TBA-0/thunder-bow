@@ -1,0 +1,3 @@
+# give player the bow
+
+give @s bow[custom_model_data={strings:["thunderbow"]},minecraft:custom_data={thunderbow:true},enchantments={levels:{"minecraft:power":5,"minecraft:punch":1,"minecraft:infinity":1,"minecraft:mending":1,"minecraft:unbreaking":3},show_in_tooltip:false},custom_name='{"bold":true,"color":"aqua","text":"Thunder God\'s Power"}',lore=['{"color":"aqua","text":"Unleash the thunder"}'],enchantment_glint_override=false] 1
