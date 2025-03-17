@@ -1,3 +1,0 @@
-# gives the item to the player
-
-give @s bow{display:{Name:'{"text":"Thunder God\'s Powers","color":"blue","bold":true}',Lore:['{"text":"Powers of the Thunder God Raiden","color":"dark_blue"}']},HideFlags:5,Unbreakable:1b,Damage:8,CustomModelData:1,Enchantments:[{id:"minecraft:flame",lvl:1s},{id:"minecraft:infinity",lvl:1s},{id:"minecraft:power",lvl:1s},{id:"minecraft:punch",lvl:1s},{id:"minecraft:mending",lvl:1s},{id:"minecraft:unbreaking",lvl:1s}]}
