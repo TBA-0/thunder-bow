@@ -11,7 +11,14 @@ thunder-bow is my first Minecraft datapack, initially created in 2024 for a priv
 ![Bow2](https://github.com/TBA-0/thunder-bow/blob/2c14613261dd3a657f165b478f12b8157044917d/github-assets/2.png)
 
 ## How do I get the bow?
-Use this command:
+1. Use:
+```bash
+/reload
+```
+And click on the message:
+![Bow5](https://github.com/TBA-0/thunder-bow/blob/329f9a6d304ff6ed7b8dcf630dfe708c8fd57427/github-assets/5.png)
+
+2. Use this command:
 ```bash
 /function thunderbow:give
 ```
