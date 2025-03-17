@@ -1,0 +1,14 @@
+{
+    "pack": {
+        "pack_format": 46,
+        "description": "thunder-bow custom model made by TBA"
+    },
+	"overlays": {
+		"entries": [
+			{
+				"formats": {"min_inclusive": 46, "max_inclusive": 46},
+				"directory": "overlay_18"
+			}
+		]
+	}
+}
