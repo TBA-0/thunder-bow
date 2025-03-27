@@ -2,8 +2,9 @@
 Experimental Minecraft datapack
 
 ## Currently supported game versions:
-**1.20.4**<br>
+**1.21.5**<br>
 **1.21.4**<br>
+**1.20.4**<br>
 
 ## What is it?
 thunder-bow is my first Minecraft datapack, initially created in 2024 for a private server. It adds a custom bow that summons lightning where the arrow lands.
